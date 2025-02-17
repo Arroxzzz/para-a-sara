@@ -19,7 +19,7 @@ body {
     position: relative;
     width: 100px;
     height: 100px;
-    background-color: #803636;
+    background-color: #ff0000;
     transform: rotate(-45deg);
     animation: beat 2s infinite;
     margin-top: 20px;
@@ -31,7 +31,7 @@ body {
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: #803636;
+    background-color: #ff0000;
     border-radius: 50%;
 }
 
