@@ -21,7 +21,7 @@ body {
     height: 100px;
     background-color: #ff0000;
     transform: rotate(-45deg);
-    animation: beat 2s infinite;
+    animation: beat 1s infinite;
     margin-top: 20px;
 }
 
